@@ -1,1 +1,1 @@
-# hugo-docsearch
+# Hugo Algolia DocSearch

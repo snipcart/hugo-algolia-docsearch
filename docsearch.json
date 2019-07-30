@@ -1,0 +1,11 @@
+{
+  "index_name": "docsearch",
+  "start_urls": ["https://snipcart-hugo-algolia-docsearch.netlify.com/"],
+  "selectors": {
+    "lvl0": ".book-brand",
+    "lvl1": ".book-page h1, .book-posts h1",
+    "lvl2": ".book-page h2, .book-posts h2",
+    "lvl3": ".book-page h3, .book-posts h3",
+    "text": ".book-page p, .book-posts p"
+  }
+}
