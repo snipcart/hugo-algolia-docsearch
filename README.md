@@ -14,4 +14,5 @@ More specifically, in this post, we’ll cover:
 Hope you enjoy! 
 
 > [Read the full tutorial](https://snipcart.com/blog/static-site-search)
+
 > [See the live demo](https://snipcart-hugo-algolia-docsearch.netlify.com/)
